@@ -9,6 +9,7 @@ A curated list of tech communities in Africa
 * [Figma Africa](https://www.figma.com/africa/)
 * Flutter
 * GDG
+* WTM
 * [GitGirl](https://www.gitgirl.co/)
 * [Laravel Nigeria](https://www.laravelnigeria.com/)
 * Usable
